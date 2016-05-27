@@ -1,0 +1,10 @@
+﻿  info.cpp
+  MyForm.cpp
+  o_grze.cpp
+  sudoku1.cpp
+  sudoku2.cpp
+  sudoku3.cpp
+  wyniki.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+LINK : fatal error LNK1561: entry point must be defined
